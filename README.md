@@ -100,6 +100,7 @@ Dữ liệu được lưu trữ và phục vụ qua **json-server**, mô phỏng
 | **Bootstrap** | 5.3 | CSS framework: layout, utility classes, responsive grid |
 | **Bootstrap Icons** | 1.11 | Thư viện icon vector |
 | **Google Fonts** | — | Font `Space Grotesk` + `JetBrains Mono` cho giao diện |
+| **Json server** | — | db.json với sơ đồ cấu trúc dữ liệu và quan hệ |
 
 #### React Hooks được sử dụng
 
