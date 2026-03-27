@@ -256,12 +256,4 @@ Base URL: `http://localhost:3001`
 
 ---
 
-## 👥 Thành viên
-
-| Họ tên | Vai trò |
-|---|---|
-| _(Thêm tên thành viên)_ | _(Vai trò)_ |
-
----
-
 > **TechStore** — Dự án học tập môn *Phát triển Ứng dụng Web* · ReactJS · React Router v6 · React Bootstrap · json-server
