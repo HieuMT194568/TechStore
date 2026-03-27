@@ -11,7 +11,7 @@ import Cart from './pages/Cart';
 import Checkout from './pages/Checkout';
 import OrderHistory from './pages/OrderHistory';
 import AdminOrders from './pages/AdminOrders';
-// ─── Protected Route: chỉ cho admin vào ───────────────────────────────────
+// ─── Protected Route: chỉ cho admin vào ───────────────────────
 const ProtectedAdminRoute = ({ children }) => {
   const user = JSON.parse(localStorage.getItem('user') || 'null');
   if (!user || user.role !== 'admin') {
